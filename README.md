@@ -10,5 +10,6 @@
 ![](/images/outdoors.png)
 ![](/images/rihanna.png)
 Text
-
-<img fig.align="center" width="200px" src="./images/big-hotel.png">
+<p align="center">
+<img width="200px" src="./images/big-hotel.png">
+</p>
