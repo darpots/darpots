@@ -11,4 +11,4 @@
 ![](/images/rihanna.png)
 Text
 
-<img src="./images/big-hotel.png" width="200px">
+<img align="center" width="200px" src="./images/big-hotel.png">
