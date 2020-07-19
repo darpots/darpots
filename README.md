@@ -10,3 +10,5 @@
 ![](/images/outdoors.png)
 ![](/images/rihanna.png)
 Text
+
+<img src="./images/big-hotel.png" width="200px">
