@@ -1,1 +1,1 @@
-(./images/big-hotel.png)
+(/images/big-hotel.png)
