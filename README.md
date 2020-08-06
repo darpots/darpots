@@ -1,15 +1,17 @@
-![](/images/big-hotel.png)
-![](/images/hotel.png)
-![](/images/bootstrap.png)
-![](/images/budget.png)
-![](/images/mountain.png)
-![](/images/movie-home.png)
-![](/images/movie-dragon.png)
-![](/images/movie-avengers.png)
-![](/images/nwide.png)
-![](/images/outdoors.png)
-![](/images/rihanna.png)
-Text
-<p align="center">
-<img width="200px" src="./images/big-hotel.png">
-</p>
+### Hi there 👋, my name is Darren
+#### I am a javaScript Developer
+![I am a javaScript Developer](./profile_image.png)
+
+
+Working on creating mini projects  
+
+Skills: HTML / CSS / javaScript / react.js
+
+- 🔭 I’m currently working on becoming a code wizard. 
+- 🌱 I’m currently learning the deeper workings of javascript and react to become more proficient. 
+- 📫 How to reach me: darpots@outlook.com 
+- ⚡ Fun fact: I didn't start to learn code until I was in my forties. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darpots)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/darpots/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/darpots)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/exercism.svg' alt='exercism' height='40'>](https://exercism.io/profiles/darrenpotter)  
+
