@@ -1,5 +1,5 @@
 
-<img src='/images/big-hotel.png' width="40%" align-left><img src='/images/mountain.png' width="40%" align-right>
+<img src='/images/big-hotel.png' width="40%" margin-right="20px"><img src='/images/mountain.png' width="40%" align-right>
 
 <img src='/images/outdoors.png' width="40%"><img src='/images/hotel.png' width="40%">
 
