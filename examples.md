@@ -1,14 +1,11 @@
-<!-- ![](/images/big-hotel.png)
-![](/images/hotel.png)
-![](/images/bootstrap.png)
-![](/images/budget.png)
-![](/images/mountain.png)
-![](/images/movie-home.png)
-![](/images/movie-dragon.png)
-![](/images/movie-avengers.png)
-![](/images/nwide.png)
-![](/images/outdoors.png)
-![](/images/rihanna.png) -->
-
-
 <img src='/images/big-hotel.png' width="30%">
+<img src='/images/hotel.png' width="30%">
+<img src='/images/bootstrap.png' width="30%">
+<img src='/images/budget.png' width="30%">
+<img src='/images/mountain.png' width="30%">
+<img src='/images/movie-home.png' width="30%">
+<img src='/images/movie-dragon.png' width="30%">
+<img src='/images/movie-avengers.png' width="30%">
+<img src='/images/nwide.png' width="30%">
+<img src='/images/outdoors.png' width="30%">
+<img src='/images/rihanna.png' width="30%">
