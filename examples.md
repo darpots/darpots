@@ -1,4 +1,4 @@
-![](/images/big-hotel.png)
+<!-- ![](/images/big-hotel.png)
 ![](/images/hotel.png)
 ![](/images/bootstrap.png)
 ![](/images/budget.png)
@@ -8,10 +8,7 @@
 ![](/images/movie-avengers.png)
 ![](/images/nwide.png)
 ![](/images/outdoors.png)
-![](/images/rihanna.png)
+![](/images/rihanna.png) -->
 
 
-
-<p align="center">
-    <img width="500px" src="./images/big-hotel.png">
-</p>
+<img src='/images/big-hotel.png' width="30%">

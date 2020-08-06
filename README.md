@@ -16,5 +16,5 @@ Skills: HTML / CSS / javaScript / react.js
 #Find me at one of these fabulous places
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/darpots)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/darpots/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/darpots)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/exercism.svg' alt='exercism' height='40'>](https://exercism.io/profiles/darrenpotter)  
 
-###See more....
+### See more....
 [Example work](https://github.com/darpots/darpots/blob/master/examples.md)
