@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Darren
 #### I am a javascript Developer
-<img src="https://github.com/darpots/darpots/blob/master/profile_image.png" alt="header image" width='100%'>
+<img src="./profile_image.png" alt="header image" width='100%'>
 
 
 ## About Me
