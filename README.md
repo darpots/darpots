@@ -4,7 +4,7 @@
 
 
 ## About Me
-Hello everyone, I am a 47 years young hobbyist developer living in a beautiful and lush green part of the UK, close to the magnificent ancient Roman city of Bath.  I work within the IT industry as a Commercial Manager by day, and play around with javascript by night.  When not dabbling with code I will no doubt have my head into some form of motorsports 
+Hello everyone, I am a 47 years young hobbyist developer living in a beautiful and lush green part of the UK, close to the magnificent ancient Roman city of Bath.  I work within the IT industry as a Commercial Manager by day, and play around with javascript by night.  When not dabbling with code I will no doubt have my head into some form of Motorsports. 
 
 I love to create mini projects to increase my code knowledge, and help all the learning sink in. My recent exploits have been refreshing my skills around react.js, particularly context and hooks, as well as doing the javascript track algorithms on Exercism to deepen my javascript knowledge.
 
