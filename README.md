@@ -16,7 +16,7 @@ Feel free to link up with me and have a chat.
 - 🔭 I’m currently working on becoming a code wizard. 
 - 🌱 I’m currently learning the deeper workings of javascript and react to become more proficient. 
 - 📫 How to reach me: darpots@outlook.com 
-- ⚡ Fun fact: I didn't start to learn code until I was in my forties. Yes an old dog can learn new tricks.
+- ⚡ Fun fact: I didn't start to learn code until I was in my forties. Yes an old dog does learn new tricks. 
 
 
 ## Find me at one of these fabulous places
