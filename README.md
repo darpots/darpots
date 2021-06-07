@@ -2,7 +2,7 @@
 
 #### I am a Frontend Developer
 
-<img src="https://github.com/darpots/darpots/blob/master/profile.image.png" alt="headline" width='100%'>
+<img src="https://github.com/darpots/darpots/blob/master/image.png" alt="headline" width='100%'>
 
 ## About Me
 
