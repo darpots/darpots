@@ -27,4 +27,6 @@ Feel free to link up with me and have a chat.
 
 ---
 
-## [Click here to see more....](https://www.frontendmentor.io/profile/darpots)
+# [Click here to see more....](https://www.frontendmentor.io/profile/darpots)
+
+---
