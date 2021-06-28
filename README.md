@@ -6,7 +6,7 @@
 
 ## About Me
 
-Welcome to you, I am a Frontend Developer living in a beautiful and lush green part of the UK. I have a thirst for learning and love to create mini code projects to practise and cement ideas and concepts.
+Welcome to you, I am a an aspiring Frontend Developer living in a beautiful and lush green part of the UK. I have a thirst for learning and love to create mini code projects to practise and cement ideas and concepts.
 
 Recently I have been using [Frontend Mentor](https://www.frontendmentor.io/profile/darpots) to create visually attractive websites while getting stuck into React and Vue.
 
