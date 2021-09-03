@@ -1,6 +1,6 @@
 ## Hello there 👋, my name is Darren
 
-#### I am a Wizard 🪄 using magic and potions to create modern mobile first responsive websites using javaScript/React/Vue. 🖥️
+#### I am a Wizard 🪄 using magic and potions to create modern mobile first responsive websites using javaScript, React and Vue.
 
 <img src="https://github.com/darpots/darpots/blob/master/image.png" alt="headline" width='100%'>
 
