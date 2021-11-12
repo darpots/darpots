@@ -16,7 +16,7 @@ Feel free to link up with me and have a chat.
 
 ## Where you can find me
 
-- 📫 How to reach me: hello@darpots.com
+- 📫 How to reach me: hello@darpots.dev
 - Github https://github.com/darpots
 - LinkedIn https://www.linkedin.com/in/darpots/
 - Twitter https://twitter.com/darpots
